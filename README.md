@@ -1,6 +1,6 @@
 # provider-template
 
-`provider-template` is a minimal [Crossplane](https://crossplane.io/) Provider
+`provider-template` iss a minimal [Crossplane](https://crossplane.io/) Provider
 that is meant to be used as a template for implementing new Providers. It comes
 with the following features that are meant to be refactored:
 
@@ -21,5 +21,5 @@ Refer to Crossplane's [CONTRIBUTING.md] file for more information on how the
 Crossplane community prefers to work. The [Provider Development][provider-dev]
 guide may also be of use.
 
-[CONTRIBUTING.md]: https://github.com/crossplane/crossplane/blob/master/CONTRIBUTING.md
+[contributing.md]: https://github.com/crossplane/crossplane/blob/master/CONTRIBUTING.md
 [provider-dev]: https://github.com/crossplane/crossplane/blob/master/docs/contributing/provider_development_guide.md
